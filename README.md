@@ -15,7 +15,7 @@
 ![Screenshot (77)](https://user-images.githubusercontent.com/97395050/197373921-4a6cd6c4-d3d9-4aa0-a429-3e7c6cc5dada.png)
 
 
-Now the shopping items page:
+# Now the shopping items page:
 
 
 
@@ -29,7 +29,7 @@ Now the shopping items page:
 
 
 
-Now if we click on any item it will be displlayed as follws:
+# Now if we click on any item it will be displlayed as follws:
 
 
 
@@ -48,7 +48,7 @@ Now if we click on any item it will be displlayed as follws:
 
 
 
-##Now the Blog page:
+# Now the Blog page:
 ![Screenshot (83)](https://user-images.githubusercontent.com/97395050/197374201-584ea021-1290-4d4b-9ac9-63e250f0bbd2.png)
 ![Screenshot (84)](https://user-images.githubusercontent.com/97395050/197374203-9e8ce508-0263-4af3-a3bc-a3e062463d5e.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/97395050/197374206-bdc8d87d-5794-41c4-8a77-e1622b0ba478.png)
@@ -56,7 +56,7 @@ Now if we click on any item it will be displlayed as follws:
 ![Screenshot (87)](https://user-images.githubusercontent.com/97395050/197374210-655260d9-8866-4ee3-9e53-39f73afb024a.png)
 
 
-##Here's the About page:
+# Here's the About page:
 ![Screenshot (89)](https://user-images.githubusercontent.com/97395050/197374241-3bfd8840-382d-48d3-b69f-36b6423819cd.png)
 
 ![Screenshot (90)](https://user-images.githubusercontent.com/97395050/197374243-f24d7cae-7e66-4934-8ad3-f47fc96b523f.png)
@@ -68,7 +68,7 @@ Now if we click on any item it will be displlayed as follws:
 
 
 
-##Here's the Contact page:
+# Here's the Contact page:
 ![Screenshot (96)](https://user-images.githubusercontent.com/97395050/197374277-7f4083b1-7aaa-4c86-8b49-eb6c15a2ed12.png)
 ![Screenshot (97)](https://user-images.githubusercontent.com/97395050/197374280-70a02935-859d-49cb-872b-b2e8b5545251.png)
 ![Screenshot (98)](https://user-images.githubusercontent.com/97395050/197374283-410767a2-28dc-4fd1-b436-dd78a26a2426.png)
@@ -78,3 +78,4 @@ Now if we click on any item it will be displlayed as follws:
 
 
 ##Now finally the Cart page:
+
