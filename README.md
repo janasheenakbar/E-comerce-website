@@ -1,5 +1,7 @@
 # E-comerce-website
-## Here's our Main Home pagee:
+
+# Here's our Main Home pagee:
+
 #screenshots:
 ![Screenshot (68)](https://user-images.githubusercontent.com/97395050/197373844-b8e09bba-c218-4ca4-afe2-ffa071d156de.png)
 ![Screenshot (69)](https://user-images.githubusercontent.com/97395050/197373848-3b9f5939-dd47-4204-b4f1-9c5fe648231c.png)
@@ -13,12 +15,21 @@
 ![Screenshot (77)](https://user-images.githubusercontent.com/97395050/197373921-4a6cd6c4-d3d9-4aa0-a429-3e7c6cc5dada.png)
 
 
-##Now the shopping items page:
+Now the shopping items page:
+
+
+
 ![Screenshot (78)](https://user-images.githubusercontent.com/97395050/197373984-a8aa9de0-4172-47c1-901a-67973524e157.png)
 ![Screenshot (79)](https://user-images.githubusercontent.com/97395050/197373996-cdfdea5e-afda-4520-920e-2a9eaa15cfc7.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/97395050/197374008-f19ab5e8-f403-4e0a-8d30-65593b23a58e.png)
 ![Screenshot (82)](https://user-images.githubusercontent.com/97395050/197374012-4126ffef-2aa9-475b-924d-1339bf82331a.png)
-##Now if we click on any item it will be displlayed as follws:
+
+
+
+
+
+
+Now if we click on any item it will be displlayed as follws:
 
 
 
