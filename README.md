@@ -29,7 +29,7 @@
 
 
 
-# Now if we click on any item it will be displlayed as follws:
+# Now if we click on any item it will be displayed as follws:
 
 
 
@@ -93,8 +93,7 @@
 
 
 
-
-
+# Thanks.
 
 
 
