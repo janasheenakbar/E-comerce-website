@@ -77,5 +77,78 @@
 ![Screenshot (100)](https://user-images.githubusercontent.com/97395050/197374294-7e86c78a-5047-4399-9fde-92972f02e64b.png)
 
 
-##Now finally the Cart page:
+# Now finally the Cart page:
+
+![Screenshot (101)](https://user-images.githubusercontent.com/97395050/197374626-38f717b9-8e5e-46e8-8a97-5a78c9da4ccc.png)
+
+
+![Screenshot (102)](https://user-images.githubusercontent.com/97395050/197374630-4311aec3-9e4f-4af0-a6fb-ce9447b15c0f.png)
+
+
+![Screenshot (103)](https://user-images.githubusercontent.com/97395050/197374632-83d96e40-9edc-4e8f-8867-0eb0181bd8e7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
