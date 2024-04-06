@@ -1,5 +1,14 @@
 # E-comerce-website
 
+
+- Developed static e-commerce site "Rollin' Down" using HTML, CSS, and JavaScript.
+- Ensured responsiveness and interactivity for enhanced user experience.
+- Integrated key features like navigation, product display, and newsletter signup.
+- Utilized Font Awesome icons for visual appeal and functionality.
+- Implemented secure payment gateways for seamless transactions.
+- Designed a user-friendly interface with intuitive navigation.
+- Achieved a modern, professional look and feel through effective layout and design elements.
+
 # Here's our Main Home pagee:
 
 #screenshots:
